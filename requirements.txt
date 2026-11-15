@@ -1,0 +1,17 @@
+jupyterlab
+ipykernel
+pandas
+pyarrow
+requests
+httpx
+beautifulsoup4
+lxml
+trafilatura
+usaddress
+rapidfuzz
+ddgs
+tldextract
+pydantic
+ollama
+tqdm
+matplotlib
